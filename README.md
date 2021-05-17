@@ -3,8 +3,8 @@
 ## Group T03G06
 | Name             | Number    | E-Mail               |
 | ---------------- | --------- | -------------------- |
-| Davide Castro    | 201806512 | up201806512@fe.up.pt |
-| João Cardoso     | 201806531 | up201806531@fe.up.pt |
+| Davide Castro    | 201806512 | up201806512@edu.fe.up.pt |
+| João Cardoso     | 201806531 | up201806531@edu.fe.up.pt |
 
 ----
 
