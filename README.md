@@ -8,7 +8,32 @@
 
 ----
 
-## Projects
+## Description
+
+This project consists of a visual and interactive interface for the [Alliances](https://nestorgames.com/rulebooks/ALLIANCES_EN.pdf) game. The logic for the game and the enemy choice algorithms were implemented in Prolog (https://github.com/davide-castro20/FEUP-PLOG/tree/main/Alliances_P1).
+
+### Features:
+- Two-player mode
+- Single player mode (vs. Computer)
+- Multiple difficulty levels
+- Modifiable time per turn
+- Undo move
+- Animated moves
+- Animated replay of all previous turns
+- Different enviroments
+- Animations
+- Different cameras
+
+## Screenshots
+
+![](pictures/LAIG3_T03_G06_1.png)
+![](pictures/LAIG3_T03_G06_2.png)
+![](pictures/LAIG3_T03_G06_3.png)
+![](pictures/LAIG3_T03_G06_4.png)
+![](pictures/LAIG3_T03_G06_5.png)
+![](pictures/LAIG3_T03_G06_6.png)
+
+## Milestones
 
 ### [TP1 - Scene Graph](TP1)
 
